@@ -1,0 +1,8 @@
+__pycache__
+checkpoints
+.env
+data/
+pretrained_models/
+streamlit/
+thrash/
+samples/
